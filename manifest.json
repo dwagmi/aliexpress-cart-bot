@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "Aliexpress Shopping Cart Bot",  
-    "description": "This will add all variants to cart",  
+    "name": "Aliexpress Cart Bot",  
+    "description": "Add all variations of an Aliexpress Product to the shopping cart in one click!",  
     "version": "1.0",    
     "permissions": ["tabs", "<all_urls>"],  
 
