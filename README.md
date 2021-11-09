@@ -5,7 +5,7 @@ Chrome extension that adds all variations of an Aliexpres product to cart with a
 The quantity may be set beforehand to add a specified quantity to cart for each variant. 
 
 ## Demo 
-<img src="https://media.giphy.com/media/Ef5MrNeVjKtquJU2NB/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/Ef5MrNeVjKtquJU2NB/giphy.gif" width="80%">
 
 ## Installation
 1. Install the Chrome Web Extension. 
